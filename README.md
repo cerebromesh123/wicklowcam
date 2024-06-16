@@ -6,4 +6,5 @@ Logos at the bottom of the page are optional.
 
 ## Hosted with Github Pages
 This is how this page was made / hosted https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/
-status update
+status updated once more
+
